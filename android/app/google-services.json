@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25809299956",
+    "project_id": "creazyalarm",
+    "storage_bucket": "creazyalarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25809299956:android:57fa96cd3b4783dac171a1",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25809299956-1kbka5aira2t474jltff69u04rl4pbbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileapp",
+            "certificate_hash": "0ccb9057b81aaebcc8341ed5263c98b72be6ab3d"
+          }
+        },
+        {
+          "client_id": "25809299956-kcsdmgbkc8u9urksvhqeb02pnijhtgo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gfdbbS1F0nvzyUZQe3CUetF2whKu8ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25809299956-kcsdmgbkc8u9urksvhqeb02pnijhtgo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
