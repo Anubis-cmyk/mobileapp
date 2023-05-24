@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Assumptions Made
+- If the image of the item is not showing , First letter of the item title is showing as the avatar.
 
 ## Shortcuts/Compromises Made
 - The app is not fully functional. It is only a prototype.
@@ -39,3 +41,6 @@ samples, guidance on mobile development, and a full API reference.
     - Run the command `flutter run` on an emulator or a physical device.
     
 
+
+Git hub link:
+  - https://github.com/Anubis-cmyk/mobileapp
